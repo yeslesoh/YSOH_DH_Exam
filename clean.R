@@ -1,7 +1,7 @@
 
 # About this script -------------------------------------------------------
 
-# Purpose: Clean datasets (1.COVID cases by age group-district, 2.Total COVID cases-district)
+# Purpose: Clean/Filter datasets and generate plots for Shiny app
 # Author: Yesle Soh
 # Last updated: 21 May, 2024
 # Contact: yesle.soh@stud.th-deg.de
